@@ -1,3 +1,5 @@
+[点击预览](https://besswang.github.io/tbt_company/index.html)
+
 # company
 
 > A Vue.js project
