@@ -1,8 +1,10 @@
-[点击预览](https://besswang.github.io/tbt_company/index.html)
+
 
 # company
 
-> A Vue.js project
+参照小红书的官网制作
+
+[点击预览](https://besswang.github.io/tbt_company/index.html)
 
 ## Build Setup
 
